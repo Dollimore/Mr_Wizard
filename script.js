@@ -40,7 +40,7 @@ function clickListener() {
     const responses = [
       'If you wait for the sun to reach its height in the sky on the summer equinox, then stare at it for 60 seconds, you will go blind.',
       'If you pee in a pool whilst swimming in it and then tell the people around you, they will think you are weird. However if you stand on the edge of the pool and pee into it, you will be put in jail for indecent exposure. Some things are the same in action, but different in outcome.',
-      'mmmmmm.....Your future is clouded. You must travel to the mudslide march and see Big Shyeit the grey goblin. For the price of one pound of mooseknuckle he will enlighten you.',
+      'mmmmmm.....Your future is clouded. You must travel to the mudslide marsh and see Big Shyeit the grey goblin. For the price of one pound of mooseknuckle he will enlighten you.',
       'If you go to your mirror at 1am and chant "Bloody mary, bloody mary, bloody mary!" and spin around three times, then light a candle. You will see the reflection of a retard.',
       'Many people say I have a hatred for the hobgoblins of the plain. They say we wizard frogs oppress them and belittle them. Nonsense! Some of my best slaves are hobgoblins! ',
       'Always check the size of your feet before you fill somebody else\'s shoes.',
