@@ -1,0 +1,57 @@
+body, 
+html { 
+    background: url(background.jpeg) no-repeat center center fixed; 
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: right; 
+	margin-right: 200px;
+	margin-top: 110px;
+}
+
+img {
+	width: 270px;
+	height: 320px;
+	opacity: 1.0;
+}
+
+img:hover
+    {
+    filter: brightness(1.2);
+    -webkit-transform: scaleX(-1);
+  	transform: scaleX(-1);
+    }
+
+#frog {
+  cursor: pointer;
+}
+
+#outputText {
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  top: 50%;
+  left: 150px;
+  transform: translateY(-50%);
+  opacity: 0.9;
+  background-color: #ebe3d6;
+  padding: 30px;
+  font-family: 'Eagle Lake', cursive;
+  font-size: 27px;
+  color: #5d473a;
+  line-height: 1.5;
+  text-align: left;
+  box-sizing: border-box;
+  overflow: auto;
+  background-image: url('scroll_texture.jpg');
+  background-repeat: repeat;
+  border: 10px solid rgba(97, 84, 65, 0.8); /* Oak-colored brown with 80% opacity */
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
